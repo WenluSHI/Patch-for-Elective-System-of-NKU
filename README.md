@@ -12,7 +12,7 @@
 # 安装
 1. [下载 Chrome 拓展](https://github.com/Neon4o4/Patch-for-Elective-System-of-NKU/releases/latest)   or    [喵版 Chrome 拓展](https://github.com/NKUCodingCat/Patch-for-Elective-System-of-NKU/releases/latest) 
 
-2. 由于在喵版拓展分布之后，学校更换了选课系统网址（222.30.32.10 → 222.30.49.10，2016年9月。），请下载[史哥修改版 Chrome 拓展](https://github.com/WenluSHI/Patch-for-Elective-System-of-NKU/upload/master)
+2. 由于在喵版拓展分布之后，学校更换了选课系统网址（222.30.32.10 → 222.30.49.10，2016年9月。），请下载[史哥修改版 Chrome 拓展](https://github.com/WenluSHI/Patch-for-Elective-System-of-NKU/tree/WenluSHI-patch-1)
 
 3. 新版本的 Chrome 会拒绝安装不是来自官方商店的拓展，因此需要手动安装：
 
