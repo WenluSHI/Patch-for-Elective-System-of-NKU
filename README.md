@@ -1,23 +1,24 @@
 # Patch-for-Elective-System-of-NKU
-临时修复南开选课系统提示密码错误无法登录的问题
+- 临时修复南开选课系统提示密码错误无法登录的问题
+- 针对近期出现的南开选课系统提示密码错误无法正常登录的问题，制作了 Chrome 拓展
+- 为广大 Mac 用户解决了在 macOS 系统下无法登陆选课系统的难题
+- 该问题是由登录页面的 HTML 标签属性错误导致的，该 Chrome 拓展仅修复了 HTML 的问题，不会对用户信息做出任何修改或记录。
+- 另外修复了左侧边栏在 Chrome 中的显示问题。
 
-针对近期出现的南开选课系统提示密码错误无法正常登录的问题，制作了 Chrome 拓展。
-
-该问题是由登录页面的 HTML 标签属性错误导致的，该 Chrome 拓展仅修复了 HTML 的问题，不会对用户信息做出任何修改或记录。
-
-另外修复了左侧边栏在 Chrome 中的显示问题。
-
-您的好友刷课姬现已入驻本拓展。
+>  您的好友刷课姬现已入驻本拓展。
+>
+> 您的好友 WenluSHI 现已入住本拓展。
 
 # 安装
 1. [下载 Chrome 拓展](https://github.com/Neon4o4/Patch-for-Elective-System-of-NKU/releases/latest)   or    [喵版 Chrome 拓展](https://github.com/NKUCodingCat/Patch-for-Elective-System-of-NKU/releases/latest) 
 
-2. 由于在喵版拓展分布之后，学校更换了选课系统网址（222.30.32.10 → 222.30.49.10，2016年9月。），请下载[史哥修改版 Chrome 拓展](https://github.com/WenluSHI/Patch-for-Elective-System-of-NKU/tree/WenluSHI-patch-1)：Patch-NKU-Elective-System-v0.1.3-2.crx
+2. 由于在喵版拓展分布之后，学校更换了选课系统网址（222.30.32.10 → 222.30.49.10，2016年9月。），请下载[史哥修改版 Chrome 拓展](https://github.com/WenluSHI/Patch-for-Elective-System-of-NKU/tree/WenluSHI-patch-1)（文件名：Patch-NKU-Elective-System-v0.1.3-2.crx）
+
 3. 新版本的 Chrome 会拒绝安装不是来自官方商店的拓展，因此需要手动安装：
 
         1) 打开 Chrome 设置 -> 拓展程序
 
-        2) 将下载的 .crx 文件拖拽至 Chrome 窗口进行安装
+        2) 将下载的 .crx 文件拖拽至 Chrome 窗口进行安装
 
         or 
 
