@@ -1,5 +1,5 @@
 # Patch-for-Elective-System-of-NKU
-临时修复南开选课系统提示密码错误无法登录的问题, 如需安装，请往下看
+临时修复南开选课系统提示密码错误无法登录的问题
 
 针对近期出现的南开选课系统提示密码错误无法正常登录的问题，制作了 Chrome 拓展。
 
@@ -9,20 +9,21 @@
 
 您的好友刷课姬现已入驻本拓展。
 
-### 如果并不想使用刷课姬本喵强烈建议使用这个[油猴脚本](https://github.com/NKUCodingCat/Patch-for-Elective-System-of-NKU-FF/tree/master/Greasemonkey)
-
 # 安装
-1. [下载 Chrome 拓展](https://github.com/Neon4o4/Patch-for-Elective-System-of-NKU/releases/latest)   or    [喵版 Chrome 拓展](https://github.com/NKUCodingCat/Patch-for-Elective-System-of-NKU/releases/latest)
-2. 新版本的 Chrome 会拒绝安装不是来自官方商店的拓展，因此需要手动安装：
+1. [下载 Chrome 拓展](https://github.com/Neon4o4/Patch-for-Elective-System-of-NKU/releases/latest)   or    [喵版 Chrome 拓展](https://github.com/NKUCodingCat/Patch-for-Elective-System-of-NKU/releases/latest) 
+
+2. 由于在喵版拓展分布之后，学校更换了选课系统网址（222.30.32.10 → 222.30.49.10，2016年9月。），请下载[史哥修改版 Chrome 拓展](https://github.com/WenluSHI/Patch-for-Elective-System-of-NKU/upload/master)
+
+3. 新版本的 Chrome 会拒绝安装不是来自官方商店的拓展，因此需要手动安装：
 
         1) 打开 Chrome 设置 -> 拓展程序
 
         2) 将下载的 crx 文件拖拽至 Chrome 窗口进行安装
-        
+
         or 
-        
+
         2')下载源码zip并解压，打开开发者模式 -> 加载已解压的拓展程序
-        
+   ​     
 ## 注意
 1. 该拓展程序有一个图形界面，然而是用来刷课姬专属的，安装后若不能正常登录，请刷新页面重试。
 
@@ -37,3 +38,4 @@
 
 yq
 
+WenluSHI: wenlu.shi@aol.com
